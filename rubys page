@@ -1,0 +1,72 @@
+  <head>
+    <meta charset="utf-8">
+    <meta http equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="script.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title>BootstrapAssignment</title>
+    <link rel="stylesheet" href="css/bootsrap.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <div class="menu">
+<div class="container" onclick="myFunction(this)">
+  <div class="bar1"></div>
+  <div class="bar2"></div>
+  <div class="bar3"></div>
+  </div>
+</div>
+<div class="multiplebackground">
+<div class="content">
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2"><img src="https://cdn.dribbble.com/users/305134/screenshots/1714294/logo_1x.png" alt="logo" class="logo"/></a>
+    </div>
+    <div class="col-md-10">
+      <link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
+      <h1 class="sr"><font color="#87040a">Sweet Ruby's</font>
+      </h1>
+  </div>
+    </div>
+      </div>
+  </div>
+  </div>
+<center class="bscolor">
+<div class="container">
+  <div class="jumbotron">
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+    <h2 class="mission"><font color="#ede907">Mission Statement:<br>
+    A written declaration of an organizations core purpose and focus that normally remains unchanged over time.<br>A written declaration of an organizations core purpose and focus that normally remains.</font></h2> 
+  </div>
+  </center>
+</div>
+<br>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-4">
+<img src="https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.0-9/16997848_1391394730883466_3605435226513540410_n.jpg?oh=bbc759413b327b798172c65e11aff919&oe=5AA2BC8F" class="slice">
+    </div>
+    <div class="col-md-4">
+<img src="https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.0-9/21232141_1551522694907629_917062150251960947_n.jpg?oh=6f8e54f7fec6330e58b769966b672733&oe=5A9F763D"class="cake">
+    </div>
+    <div class="col-md-4">
+    <img src="https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.0-9/16114845_1565391013475062_4143005028662609052_n.jpg?oh=1f63f31907aa2e5e153b6e69c1f5ae92&oe=5A686907"class="minis">
+    </div>
+  </div> 
+</div>
+
+</div>
+<center>
+  <a href="https://facebook.com">
+  <i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i>
+  </a>
+  <a href="https://instagram.com">
+  <i class="fa fa-instagram fa-2x" aria-hidden="true"></i>
+</a>
+<a href="https://twitter.com">
+  <i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
+</a>
+</center> 
